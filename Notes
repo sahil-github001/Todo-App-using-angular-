@@ -1,0 +1,3 @@
+Install json server
+    npm install json server
+    npx json-server --watch db.json or json-server --watch db.json (To start json service)
